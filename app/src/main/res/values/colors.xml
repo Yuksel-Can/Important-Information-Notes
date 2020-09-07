@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorGray">#E1D3D3D3</color>
+    <color name="colorBlack">#E1000000</color>
+    <color name="colorBlackSoft">#52202020</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlue">#15043C</color>
+    <color name="colorWhiteBlue">#C9D9DC</color>
+    <color name="my_spinner_text_color">#000000</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kaymakamlik Hap Bilgiler</string>
+    <array name="spinnerKatagori">
+        <item>Lütfen Kategori seçiniz  ▼</item>
+        <item>Türkçe</item>
+        <item>Atatürk İlkeleri ve İnkılap Tarihi</item>
+        <item>Türkiye nin Sosyo-Ekonomik Yapısı</item>
+        <item>Türkiye de Demokratikleşme ve İnsan Hakları</item>
+        <item>Anayasa Hukuku</item>
+        <item>İdare Hukuku</item>
+        <item>Türkiye nin İdari Yapısı</item>
+        <item>Türkiye de Mahalli İdareler</item>
+        <item>Ekonomi (İktisat)</item>
+    </array>
+</resources>
