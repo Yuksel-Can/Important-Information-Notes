@@ -21,6 +21,9 @@ Android Studio must be installed to run, review and use the project
 Download the repository
 <br/>
 Run the files with `Android Studio`
+## How to download 
+`https://play.google.com/store/apps/details?id=com.omu.kaymakamlksnavhapbilgiler`
+<br/>
 ## Screenshots
 ![git1](https://github.com/Yuksel-Can/Important-Information-Notes/blob/master/app/src/main/res/app_github/app1.jpg)
 ![git2](https://github.com/Yuksel-Can/Important-Information-Notes/blob/master/app/src/main/res/app_github/app2.jpg)
